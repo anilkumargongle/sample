@@ -1,4 +1,4 @@
 applications:
-- name: node-hello-world
+- name: phptest143
   memory: 128M
-  buildpack: sdk-for-nodejs
+  buildpack: php_buildpack
